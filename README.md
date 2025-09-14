@@ -54,7 +54,7 @@
 ### 📬 Contact Me
 
 <p>
-  <a href="https://www.linkedin.com/in/kagisolesomo" target="_blank">
+  <a href="[https://www.linkedin.com/in/kagisolesomo](https://www.linkedin.com/in/kagiso-lesomo-253a31175/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-KagisoLesomo-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:lesomokagiso@gmail.com">
