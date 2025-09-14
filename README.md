@@ -19,9 +19,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-## 🔥 Tech Stack
+### 🔥 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
