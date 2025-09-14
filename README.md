@@ -9,23 +9,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final year Computer Science Honours student at Wits
-- 🧠 I enjoy solving problems in the AI, RL, and systems programming spaces
+- 🎓 Final year Computer Science Honours student at Wits  
+- 🧠 I enjoy solving problems in the AI, RL, and systems programming spaces  
 - 🧪 Currently exploring:
   - Safe Reinforcement Learning (Atari environments, OmniSafe)
   - NLP models (Word2Vec, CNN-based classifiers)
-  - Building custom shell environments with C
+  - Building custom shell environments with C  
 - 🌍 I also build full-stack web applications in my free time
-
-📫 Let's connect:
-<p>
-  <a href="https://www.linkedin.com/in/kagisolesomo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-KagisoLesomo-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="mailto:lesomokagiso@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lesomokagiso%40gmail.com-red?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 ---
 
@@ -61,6 +51,18 @@
 
 ---
 
+### 📬 Contact Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kagisolesomo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-KagisoLesomo-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:lesomokagiso@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lesomokagiso%40gmail.com-red?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
 
 ### ✨ Quote that resonates
 
