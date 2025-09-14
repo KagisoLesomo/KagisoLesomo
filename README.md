@@ -33,7 +33,7 @@ I'm a passionate developer with a love for [Your Interests]. I'm currently worki
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=[KagisoLesomo]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
   </a>
 </p>
 <p align="center">
