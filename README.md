@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on:
   - Safe Reinforcement Learning for Atari Environments 🎮
   - NLP models (Word2Vec, CNN classifiers, etc.)
-  - Custom Unix-like Shell in C for OS coursework 🐚
 
 - 🌱 I’m currently learning:
   - Distributed Systems & Kubernetes
@@ -26,7 +25,7 @@
 
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/KagisoLesomo-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kagisolesomo)  
-  ✉️ Email: `your.email@example.com`
+  ✉️ Email: `lesomokagiso@gmail.com`
 
 ---
 
@@ -55,13 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KagisoLesomo&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
----
-
-### 📁 Featured Projects
-
-- 🔬 [Safe RL Atari Benchmarking](https://github.com/YOUR_USERNAME/YOUR_REPO)
-- 🧠 [NLP CNN Classifier](https://github.com/YOUR_USERNAME/YOUR_REPO)
-- 🐚 [Custom Unix Shell in C](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
 ---
 
