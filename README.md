@@ -61,17 +61,10 @@
 
 ---
 
-### 🚀 Projects I'm proud of
-
-- 🧠 **Safe RL Benchmarking in Atari** – Extending Gymnasium + OmniSafe to test agents under layered safety constraints
-- 🧾 **NLP CNN Classifier** – Predicting Harry Potter book pages using embeddings & convolutional networks
-- 🐚 **Custom Unix Shell in C** – Lightweight command interpreter with basic shell functionality
-
----
 
 ### ✨ Quote that resonates
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “I have not failed. I’ve just found 10,000 ways that won’t work.” – Austin Freeman
 
 ---
 
