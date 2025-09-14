@@ -64,7 +64,7 @@
 
 ### ✨ Quote that resonates
 
-> “I have not failed. I’ve just found 10,000 ways that won’t work.” – Austin Freeman
+> “I have not failed. I’ve just found 10,000 ways that won’t work.” – Thomas Edison
 
 ---
 
