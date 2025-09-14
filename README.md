@@ -51,11 +51,11 @@
 
 ---
 
-### 📬 Contact Me
+### 📬 Let's Connect!
 
 <p>
   <a href="[https://www.linkedin.com/in/kagisolesomo](https://www.linkedin.com/in/kagiso-lesomo-253a31175/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-KagisoLesomo-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Kagiso Lesomo-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:lesomokagiso@gmail.com">
     <img src="https://img.shields.io/badge/Email-lesomokagiso%40gmail.com-red?style=flat&logo=gmail&logoColor=white">
