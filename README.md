@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final year Computer Science Honours student at Wits  
+- 🎓 Computer Science Honours Graduate
 - 🧠 I enjoy solving problems in the AI, RL, and systems programming spaces  
 - 🧪 Currently exploring:
   - Safe Reinforcement Learning (Atari environments, OmniSafe)
