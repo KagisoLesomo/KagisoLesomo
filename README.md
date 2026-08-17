@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kagiso Lesomo</h1>
-<h3 align="center">Computer Science Honours Student @ Wits | Full Stack Developer | AI & RL Enthusiast</h3>
+<h3 align="center">Computer Science Honours Graduate @ Wits | Full Stack Developer | AI & RL Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer+%7C+AI+%7C+RL+%7C+Systems;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
